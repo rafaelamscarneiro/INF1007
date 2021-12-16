@@ -1,2 +1,2 @@
 # INF1007_2020.2
-Testes e tarefas
+Nota final do curso: 10.0
