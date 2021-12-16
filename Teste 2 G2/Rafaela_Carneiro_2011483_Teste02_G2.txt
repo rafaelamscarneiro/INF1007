@@ -1,0 +1,11 @@
+bianca 170 65
+camila 170 60
+camila 170 80
+claudia 170 75
+eduarda 160 65
+eduardo 170 75
+eduardo 190 100
+eric 180 75
+hellen 160 50
+hellen 160 60
+
