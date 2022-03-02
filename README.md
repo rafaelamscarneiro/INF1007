@@ -1,3 +1,2 @@
 # INF1007 - Programação II
-Cursada em 2020.2
-Nota final: 10.0
+Cursada em 2020.2\nNota final: 10.0
